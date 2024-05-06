@@ -1,4 +1,4 @@
-# Artificial Intelligence (AI): A Brief Overview
+# Artificial Intelligence (AI)
 
 Artificial Intelligence (AI) refers to the capability of a machine to imitate intelligent human behavior. Essentially, AI is the science and engineering of making intelligent machines, especially intelligent computer programs.
 
